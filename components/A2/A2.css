@@ -1,0 +1,21 @@
+.a-4 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 24px;
+  display: flex;
+  height: 34px;
+  overflow: hidden;
+  padding: 5.16px 16.48px 6.84px 16px;
+  width: 316px;
+}
+
+.email {
+  letter-spacing: 0;
+  line-height: 21.7px;
+  margin-top: -1.00px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

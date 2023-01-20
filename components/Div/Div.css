@@ -1,0 +1,23 @@
+.div-39 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 22.14px 9px 0px;
+  width: fit-content;
+}
+
+.place-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.surname {
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: fit-content;
+}
+

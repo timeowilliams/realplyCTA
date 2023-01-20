@@ -1,0 +1,40 @@
+.a-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 24px;
+  display: flex;
+  left: 68px;
+  overflow: hidden;
+  padding: 5.16px 16.36px 6.84px 16px;
+  position: absolute;
+  top: 6px;
+  width: fit-content;
+}
+
+.request-a-demo {
+  letter-spacing: 0;
+  line-height: 21.7px;
+  margin-top: -1.00px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.a-1.a-2 {
+  left: unset;
+  margin-right: 0.02px;
+  margin-top: 27px;
+  padding: 5.16px 16.48px 6.84px 16px;
+  position: unset;
+  top: unset;
+}
+
+.a-1.a-3 {
+  height: 34px;
+  left: unset;
+  padding: 5.16px 16.48px 6.84px 16px;
+  position: unset;
+  top: unset;
+  width: 135px;
+}
+
