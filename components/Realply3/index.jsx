@@ -133,7 +133,7 @@ function Realply3(props) {
                 <div className="footer">
                   <div className="a">
                     <div className="install-extension-for-chrome valign-text-middle roboto-medium-cod-gray-14px">
-                      {installExtensionForChrome}
+                     <a href="https://chrome.google.com/webstore/detail/realply-extension/elkfbkajcejadbnamlnnhapapapkdjij"> Install Extension for Chrome</a>
                     </div>
                   </div>
                   <div className="flex-row">
